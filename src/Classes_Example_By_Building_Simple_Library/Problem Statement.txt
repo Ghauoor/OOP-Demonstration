@@ -1,0 +1,2 @@
+Problem statement: A library has books that can be borrowed by library members. Each book has a title, author, and ISBN.
+Each member has a name and a library card number.
